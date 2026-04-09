@@ -169,12 +169,7 @@ body {
 }
 
 /* --- 5. Buttons --- */
-.hero-btns {
-    display: flex;
-    gap: 1rem;
-    position: relative;
-    z-index: 1;
-}
+.hero-btns { display: flex; gap: 1rem; position: relative; z-index: 1; }
 
 .btn {
     padding: 0.8rem 1.8rem;
